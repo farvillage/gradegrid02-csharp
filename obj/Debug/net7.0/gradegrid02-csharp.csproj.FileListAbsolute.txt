@@ -1,0 +1,14 @@
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.AssemblyInfoInputs.cache
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.AssemblyInfo.cs
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.csproj.CoreCompileInputs.cache
+/Users/farvillage/gradegrid02-csharp/bin/Debug/net7.0/gradegrid02-csharp
+/Users/farvillage/gradegrid02-csharp/bin/Debug/net7.0/gradegrid02-csharp.deps.json
+/Users/farvillage/gradegrid02-csharp/bin/Debug/net7.0/gradegrid02-csharp.runtimeconfig.json
+/Users/farvillage/gradegrid02-csharp/bin/Debug/net7.0/gradegrid02-csharp.dll
+/Users/farvillage/gradegrid02-csharp/bin/Debug/net7.0/gradegrid02-csharp.pdb
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.dll
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/refint/gradegrid02-csharp.dll
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.pdb
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/gradegrid02-csharp.genruntimeconfig.cache
+/Users/farvillage/gradegrid02-csharp/obj/Debug/net7.0/ref/gradegrid02-csharp.dll
